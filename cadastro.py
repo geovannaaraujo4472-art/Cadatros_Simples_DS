@@ -7,4 +7,15 @@ while True:
     print ("2- Fazer login")
     print ("3 - Sair ")
 
-    opocao = input ("Escolha uma opção:")
+    opocao = int (input ("Escolha uma opção:"))
+#Funcionalidades
+    #Se o usuario digitar o valor 1, vai ser exibido
+    # a ação abaixo:
+    # if (opcao == 1) : 
+         print("==========================")
+         print("=====Tela de Cadastro=====")     
+         print("==========================")
+
+
+
+
